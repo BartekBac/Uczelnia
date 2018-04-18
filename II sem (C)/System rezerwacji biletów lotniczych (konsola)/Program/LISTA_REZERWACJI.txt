@@ -1,0 +1,30 @@
+lodz: 30-06-2017, 19:00-19:40 -> wroclaw
+ + POWROT
+wroclaw: 31-07-2017, 06:30-07:10 -> lodz
+2 osoba/y: Jan Kowalski (45), Anna Kowalska (42),
+Kontakt: tel: 566231445 e-mail: j.kowalski@gmail.com KOSZT: 524
+
+wroclaw: 17-06-2017, 13:30-15:50 -> gdansk
+1 osoba/y: Kamil Oracz (34),
+Kontakt: tel: 562314456 e-mail: oracz.kamil@wp.pl KOSZT: 169
+
+poznan: 19-06-2017, 12:10-14:10 -> katowice: 19-06-2017, 15:20-17:50 -> gdansk
+1 osoba/y: Piotr Kamien (36),
+Kontakt: tel: 562314562 e-mail: kamienny@vp.pl KOSZT: 284
+
+warszawa: 19-06-2017, 06:30-07:30 -> poznan
+1 osoba/y: Franciszek Kowal (69),
+Kontakt: tel: 562314785 e-mail: kowall@wp.pl KOSZT: 110
+
+warszawa: 19-06-2017, 11:00-12:10 -> wroclaw: 19-06-2017, 14:40-15:20 -> lodz
+ + POWROT
+lodz: 30-06-2017, 06:00-06:30 -> warszawa
+2 osoba/y: Jan Kowalski (42), Anna Kowalska (40),
+Kontakt: tel: 665232456 e-mail: j.kowalski@gmail.com KOSZT: 480
+
+katowice: 13-06-2017, 06:00-06:40 -> lodz: 13-06-2017, 08:00-08:40 -> wroclaw
+ + POWROT
+wroclaw: 30-06-2017, 08:10-09:20 -> warszawa: 30-06-2017, 18:00-19:10 -> katowice
+1 osoba/y: Bartlomiej Krason (20),
+Kontakt: tel: 665239564 e-mail: bac2@vp.pl KOSZT: 466
+

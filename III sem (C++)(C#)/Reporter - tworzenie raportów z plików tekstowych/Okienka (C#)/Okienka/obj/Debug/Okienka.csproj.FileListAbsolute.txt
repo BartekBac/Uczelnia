@@ -1,0 +1,23 @@
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\bin\Debug\Okienka.exe.config
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\bin\Debug\Okienka.exe
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\bin\Debug\Okienka.pdb
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\obj\Debug\Okienka.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\obj\Debug\Okienka.MainWindow.resources
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\obj\Debug\Okienka.Properties.Resources.resources
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\obj\Debug\Okienka.csproj.GenerateResource.Cache
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\obj\Debug\Okienka.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\obj\Debug\Okienka.exe
+C:\Users\Bartek\Source\Repos\Okienka\Okienka\obj\Debug\Okienka.pdb
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\bin\Debug\Okienka.exe.config
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\bin\Debug\Okienka.exe
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\bin\Debug\Okienka.pdb
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\obj\Debug\Okienka.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\obj\Debug\Okienka.MainWindow.resources
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\obj\Debug\Okienka.Properties.Resources.resources
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\obj\Debug\Okienka.csproj.GenerateResource.Cache
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\obj\Debug\Okienka.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\obj\Debug\Okienka.exe
+C:\Users\Bartek\Documents\Rep robocze\Okienka\Okienka\obj\Debug\Okienka.pdb
+C:\Users\Bartek\Documents\Rep robocze\Uczelnia - projekty\III sem (C++)(C#)\Okienka (C#)\Okienka\bin\Debug\Okienka.exe.config
+C:\Users\Bartek\Documents\Rep robocze\Uczelnia - projekty\III sem (C++)(C#)\Okienka (C#)\Okienka\obj\Debug\Okienka.exe
+C:\Users\Bartek\Documents\Rep robocze\Uczelnia - projekty\III sem (C++)(C#)\Okienka (C#)\Okienka\obj\Debug\Okienka.pdb

@@ -1,0 +1,9 @@
+Sienkiewicz; Potop; powieœæ, historia
+Mickiewicz; Pan Tadeusz; historia, poemat
+Platon Uczta; historia
+
+Kopernik; O obrotach sfer niebieskich; nauka, filozofia
+Shakespeare; Hamlet; dramat, renesans
+Cormen; Algorytmy; komputeryka, nauka
+Lem; Summa Technologiae; filozofia, futurystyka, komputeryka
+Mickiewicz; Dziady; dramat, romantyzm

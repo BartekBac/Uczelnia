@@ -1,0 +1,38 @@
+romantyzm:
+Mickiewicz; Dziady
+
+futurystyka:
+Lem; Summa Technologiae
+
+komputeryka:
+Cormen; Algorytmy
+Lem; Summa Technologiae
+
+renesans:
+Shakespeare; Hamlet
+
+dramat:
+Mickiewicz; Dziady
+Shakespeare; Hamlet
+
+filozofia:
+Kopernik; O obrotach sfer niebieskich
+Lem; Summa Technologiae
+
+nauka:
+Cormen; Algorytmy
+Kopernik; O obrotach sfer niebieskich
+
+poemat:
+Mickiewicz; Pan Tadeusz
+
+historia:
+Mickiewicz; Pan Tadeusz
+Sienkiewicz; Potop
+
+powieœæ:
+Sienkiewicz; Potop
+
+
+Blad danych w lini(3)
+Blad danych w lini(4)

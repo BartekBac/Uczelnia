@@ -1,0 +1,11 @@
+Najdluzszy wspolny podciag ma postaci: r, a
+Najdluzszy wspolny podciag ma postaci: p, n
+Za duzo slow w lini
+Za malo slow w lini
+Za malo slow w lini
+Za malo slow w lini
+Za malo slow w lini
+Najdluzszy wspolny podciag ma postaci: olta, olea
+Najdluzszy wspolny podciag ma postaci: abbaba, babbab
+Najdluzszy wspolny podciag ma postac: AREK
+Najdluzszy wspolny podciag ma postac: sprawdzenie
